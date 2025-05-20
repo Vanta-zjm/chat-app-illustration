@@ -11,7 +11,7 @@ A responsive landing page designed to promote a fictional chat application. This
 
 ## 🌐 Preview
 
-[Live Demo (GitHub Pages)](https://yourusername.github.io/chat-app-illustration/)
+[Live Demo (GitHub Pages)](https://vanta-zjm.github.io/chat-app-illustration/)
 
 ## 🛠️ Built With
 
