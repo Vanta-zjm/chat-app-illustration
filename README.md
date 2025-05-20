@@ -1,34 +1,30 @@
 # Chat App Illustration Page
 
-A responsive landing page designed to promote a fictional chat application. This project showcases modular layout design and responsive techniques using pure HTML and CSS.
+A responsive front-end project simulating a modern chat app's promotional landing page. Built with HTML and CSS.
 
-## 🔧 Features
+## 🌐 Live Demo  
+[👉 View Online](https://vanta-zjm.github.io/chat-app-illustration/index.html)
 
-- Responsive layout optimized for various screen sizes
-- Modular section-based design using Flexbox
-- Custom typography and visual hierarchy
-- Mobile-first approach
-
-## 🌐 Preview
-
-[Live Demo (GitHub Pages)](https://vanta-zjm.github.io/chat-app-illustration/index.html)
+## 📸 Preview  
+![Project Screenshot](assets/preview.jpeg)
 
 ## 🛠️ Built With
-
 - HTML5
 - CSS3 (Flexbox)
 - Google Fonts (Poppins)
+- Responsive design techniques
 
-## 📸 Screenshots
+## ✨ Key Features
+- ✅ Section-based modular layout
+- ✅ Responsive design for different screen sizes
+- ✅ Clean typography and color balance
+- ✅ Precise visual spacing and layout control
 
-*(Insert preview screenshots here)*
-
-## 🎯 What I Learned
-
-- Structuring a multi-section responsive landing page
-- Mastering spacing, alignment, and design replication
-- Improving semantic HTML practices
+## 💡 What I Learned
+- Structuring multi-section landing pages
+- Using Flexbox for layout precision
+- Applying typography hierarchy and design replication
+- Strengthening mobile-first development habits
 
 ## 📄 License
-
-This project is licensed under the MIT License.
+MIT
