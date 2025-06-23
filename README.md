@@ -6,7 +6,7 @@ A modular, responsive landing page designed to showcase the features of a fictio
 [👉 View Online](https://vanta-zjm.github.io/chat-app-illustration/index.html)
 
 ## 📸 Preview  
-[Project Screenshot](assets/preview.jpeg)
+![Project Screenshot](assets/preview.jpeg)
 
 ## 🛠️ Built With
 - HTML5
